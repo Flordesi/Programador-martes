@@ -1,0 +1,31 @@
+h1{
+    background-color: pink;
+    text-align: right;
+    font-style: oblique;
+}
+
+h2{
+    color: pink;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+h3{
+    font-family: fantasy;
+    font-variant-numeric: slashed-zero;
+}
+
+ul{
+   color: #9900ff;
+}
+
+ol{
+    color: #00f7ff;
+}
+
+img{
+    border-width: 20px;
+    border-style: double;
+    border-color: pink;
+
+}
